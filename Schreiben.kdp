@@ -458,11 +458,25 @@ Schritt
 rechtsDrehen
 rechtsDrehen
 Aufheben
+linksDrehen
 *ANWEISUNG
 ANWEISUNG leer
 Schritt
 *ANWEISUNG
-{--------------------------------}
+ANWEISUNG neu
+rechtsDrehen
+Schritt(4)
+rechtsDrehen
+wiederhole solange nicht istWand
+Schritt
+*wiederhole
+linksDrehen
 Start
+*ANWEISUNG
+{--------------------------------}
 {Text Beispiel: H a l l o leer d u}
+Start
+R o b o t 
+Unterstreichen neu
+K a r o l
 Unterstreichen
