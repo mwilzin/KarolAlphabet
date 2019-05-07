@@ -1,0 +1,478 @@
+ANWEISUNG umdrehen
+linksDrehen
+linksDrehen
+*ANWEISUNG
+ANWEISUNG start
+Schritt(4)
+linksDrehen
+*ANWEISUNG
+ANWEISUNG c
+wiederhole 3 mal
+Hinlegen
+Schritt
+*wiederhole
+Schritt
+linksDrehen
+Schritt(2)
+linksDrehen
+wiederhole 3 mal
+Hinlegen
+Schritt
+*wiederhole
+linksDrehen
+Hinlegen
+Schritt(2)
+linksDrehen
+Schritt(3)
+*ANWEISUNG
+ANWEISUNG o
+c
+linksDrehen
+Schritt
+linksDrehen
+Hinlegen
+linksDrehen
+Schritt
+linksDrehen
+*ANWEiSUNG
+ANWEISUNG a
+o
+rechtsDrehen
+Schritt
+rechtsDrehen
+Hinlegen
+Schritt
+rechtsDrehen
+Schritt(3)
+Hinlegen
+rechtsDrehen
+Schritt
+rechtsDrehen
+Schritt(2)
+linksDrehen
+*ANWEISUNG
+ANWEISUNG b
+o
+linksDrehen
+Schritt(4)
+linksDrehen
+Schritt(2)
+Hinlegen
+Schritt
+linksDrehen
+Hinlegen
+Schritt(4)
+linksDrehen
+Schritt(3)
+*ANWEISUNG
+ANWEISUNG d
+o
+linksDrehen
+Schritt(4)
+linksDrehen
+Hinlegen
+Schritt
+linksDrehen
+Hinlegen
+Schritt(4)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG q
+o
+umdrehen
+Schritt
+linksDrehen
+wiederhole 3 mal
+Hinlegen
+Schritt
+*wiederhole
+umdrehen
+Schritt(3)
+rechtsDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG p
+o
+umdrehen
+Schritt(3)
+linksDrehen
+wiederhole 3 mal
+Hinlegen
+Schritt
+*wiederhole
+umdrehen
+Schritt(3)
+rechtsDrehen
+Schritt(3)
+*ANWEISUNG
+ANWEISUNG l
+Hinlegen
+Schritt
+linksDrehen
+wiederhole 4 mal
+Hinlegen
+Schritt
+*wiederhole
+umdrehen
+Schritt(4)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG k
+l
+linksDrehen
+Hinlegen
+Schritt
+rechtsDrehen
+Schritt
+rechtsDrehen
+Hinlegen
+umdrehen
+Hinlegen
+rechtsDrehen
+Schritt
+rechtsDrehen
+Schritt
+linksDrehen
+*ANWEISUNG
+ANWEISUNG h
+l
+Hinlegen
+linksDrehen
+Schritt
+Hinlegen
+Schritt
+rechtsDrehen
+Hinlegen
+Schritt
+rechtsDrehen
+Hinlegen
+Schritt(2)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG g
+q
+umdrehen
+Schritt
+linksDrehen
+Schritt(3)
+rechtsDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+rechtsDrehen
+Schritt(3)
+rechtsDrehen
+Schritt(3)
+*ANWEISUNG
+ANWEISUNG e
+c
+linksDrehen
+Schritt(4)
+linksDrehen
+wiederhole 3 mal
+Hinlegen
+Schritt
+*wiederhole
+linksDrehen
+Hinlegen
+Schritt
+linksDrehen
+Schritt
+Hinlegen
+Schritt(2)
+rechtsDrehen
+Schritt(3)
+linksDrehen
+*ANWEISUNG
+ANWEISUNG f
+Schritt
+l
+linksDrehen
+Schritt
+Hinlegen
+Schritt(2)
+Hinlegen
+linksDrehen
+Schritt(2)
+linksDrehen
+Hinlegen
+Schritt(3)
+linksDrehen
+Schritt(3)
+*ANWEISUNG
+ANWEISUNG i
+Hinlegen
+Schritt
+linksDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+Schritt
+Hinlegen
+umdrehen
+Schritt(3)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG j
+i
+umdrehen
+Schritt
+linksDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+rechtsDrehen
+Hinlegen
+umdrehen
+Schritt
+linksDrehen
+Schritt(2)
+rechtsDrehen
+*ANWEISUNG
+ANWEISUNG n
+Hinlegen
+Schritt
+linksDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+rechtsDrehen
+Hinlegen
+Schritt
+Hinlegen
+Schritt
+rechtsDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG m
+n
+Hinlegen
+linksDrehen
+Schritt
+Hinlegen
+Schritt
+rechtsDrehen
+Hinlegen
+Schritt
+rechtsDrehen
+Hinlegen
+Schritt(2)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG r
+Hinlegen
+Schritt
+linksDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+rechtsDrehen
+Hinlegen
+Schritt(2)
+rechtsDrehen
+Schritt(2)
+linksDrehen
+*ANWEISUNG
+ANWEISUNG s
+Schritt(2)
+Hinlegen
+wiederhole 2 mal
+rechtsDrehen
+Hinlegen
+*wiederhole
+rechtsDrehen
+Schritt(2)
+rechtsDrehen
+wiederhole 2 mal
+Hinlegen
+linksDrehen
+*wiederhole
+wiederhole 2 mal
+Hinlegen
+linksDrehen
+*wiederhole
+Schritt(2)
+rechtsDrehen
+Schritt(2)
+linksDrehen
+*ANWEISUNG
+ANWEISUNG t
+Schritt
+l
+linksDrehen
+Schritt
+Hinlegen
+Schritt
+LinksDrehen
+Schritt
+Hinlegen
+umdrehen
+Schritt
+rechtsDrehen
+Schritt(2)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG u
+rechtsDrehen
+Schritt
+linksDrehen
+Schritt(3)
+linksDrehen
+c
+umdrehen
+Schritt(3)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG v
+Schritt
+Hinlegen
+linksDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+Schritt
+rechtsDrehen
+Schritt(2)
+rechtsDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+Schritt
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG w
+v
+umdrehen
+Schritt
+umdrehen
+Hinlegen
+Schritt(2)
+linksDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+umdrehen
+Schritt(2)
+linksDrehen
+Schritt
+*ANWEISUNG
+ANWEISUNG x
+Schritt(2)
+wiederhole 3 mal
+Hinlegen
+linksDrehen
+*wiederhole
+umdrehen
+Schritt(2)
+linksDrehen
+Hinlegen
+umdrehen
+Hinlegen
+Schritt(2)
+rechtsDrehen
+Schritt(2)
+linksDrehen
+*ANWEISUNG
+ANWEISUNG y
+Schritt(2)
+wiederhole 2 mal
+Hinlegen
+umdrehen
+Hinlegen
+rechtsDrehen
+Schritt
+rechtsDrehen
+*wiederhole
+rechtsDrehen
+Schritt(2)
+wiederhole 3 mal
+Hinlegen
+Schritt
+*wiederhole
+umdrehen
+Schritt(3)
+rechtsDrehen
+Schritt(2)
+*ANWEISUNG
+ANWEISUNG z
+Hinlegen
+Schritt
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+linksDrehen
+Schritt
+linksDrehen
+Hinlegen
+rechtsDrehen
+Hinlegen
+Schritt
+linksDrehen
+wiederhole 2 mal
+Hinlegen
+Schritt
+*wiederhole
+umdrehen
+Schritt(3)
+rechtsDrehen
+Schritt(2)
+linksDrehen
+*ANWEISUNG
+ANWEISUNG Unterstreichen
+rechtsDrehen
+Schritt
+rechtsDrehen
+wiederhole solange nicht istWand
+wenn istZiegel dann
+Schritt
+*wenn
+wenn nicht istZiegel dann
+Hinlegen
+*wenn
+Schritt
+*wiederhole
+rechtsDrehen
+Schritt
+rechtsDrehen
+rechtsDrehen
+Aufheben
+linksDrehen
+*ANWEISUNG
+ANWEISUNG leer
+Schritt
+*ANWEISUNG
+ANWEISUNG neu
+rechtsDrehen
+Schritt(4)
+rechtsDrehen
+wiederhole solange nicht istWand
+Schritt
+*wiederhole
+linksDrehen
+Start
+*ANWEISUNG
+{--------------------------------}
+{Text Beispiel: H a l l o leer d u}
+Unterstreichen
